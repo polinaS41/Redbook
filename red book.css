@@ -1,0 +1,213 @@
+header,main{
+	margin-right: 200px;
+	margin-left: 200px;
+}
+html{
+	scroll-behavior: smooth;
+}
+body{
+
+	margin: 200px 0px 0px 0px;
+}
+main{
+	background: url("листик 1.svg") no-repeat 75% 13.5%,
+	 url("листик 2.svg") no-repeat 25% 13.5% ,
+	 url("листик 3.svg") no-repeat 0% 20%,
+	 url("листик 4.svg") no-repeat 90% 25%,
+	 url("листик 5.svg") no-repeat 90% 45%,
+	 url("листик 6.svg") no-repeat 0% 70%,
+	 url("листик 7.svg") no-repeat 90% 95%;
+
+}
+h1{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	color: #589800;
+	font-size: 50px;
+	text-align: center;
+}
+h2{
+	font-family: URW Chancery L, cursive;
+	font-size: 30px;
+	text-align: center;
+}
+h2:before{
+	content: url("Stroke.png");
+	display: block;
+
+}
+h2:after{
+	content: url("Stroke.png");
+	display: block;
+}
+.text {
+	height: 450px;
+	width: 700px;
+	text-align: justify;
+	justify-content: center;
+	border: 5px solid #CDFFCC;
+	padding:10px 20px 10px 20px  ;
+	background: url("https://avatanplus.com/files/resources/original/57a96590b38d21566db4bd5f.png") no-repeat 50% 150% ;
+}
+.yellow {
+	text-align: justify;
+	padding: 20px;
+	background-color: #E8FF95;
+	width: 700px;
+}
+.green {
+	text-align: justify;
+	padding: 20px;
+	background-color: #95FF9F;
+	width: 700px;
+}
+.olive {
+	text-align: justify;
+	padding: 20px;
+	background-color: #40CE4E;
+	width: 700px;
+}
+.cart {
+	text-align: left;
+	justify-content: center;
+	display: flex;
+}
+h3{
+	text-align: center;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+section{
+	margin: 30px;
+}
+footer{
+	padding: 50px 0px 0px 0px;
+	background-image: linear-gradient(to right,#C9F76F,#FFFF73,#67E667);
+	margin-left:0px ;
+	width: 100%;
+	margin-right:0px ;
+}
+footer p{
+	margin-left: 20px;
+}
+footer img {
+	position: relative;
+	bottom: 50px;
+	left: 90%;
+} 
+nav{
+	position: fixed;
+	background-color: #C6FF78;
+	top: 0px;
+	width: 70%;
+	height: 150px;
+	padding-bottom: 20px;
+}
+.branch{
+	position: relative;
+	bottom: 20px;
+	width: 100%;
+}
+main{
+	margin-top: 100px;
+}
+.leaf1{
+	position: relative;
+	top: 78px;
+	left: 300px;
+	height: 80px;
+	width: 90px ;
+}
+
+.leaf2{
+	position: relative;
+	left: 500px;
+	top: 30px;
+	height: 80px;
+	width:90px ;
+}
+
+.leaf3{
+	position: relative;
+	left: 350px;
+	top: 25px;
+	height: 80px;
+	width:90px ;
+}
+
+.leaf4{
+
+	position: relative;
+	left: 100px;
+	top: 85px;
+	height: 80px;
+	width:90px ;
+}
+
+.leaf5{
+
+	position: relative;
+	left: 320px;
+	top: 35px;
+	height: 80px;
+	width:90px ;
+}
+
+.leaf6{
+
+	position: relative;
+	left: 70px;
+	top: 20px;
+	height: 80px;
+	width:90px ;
+}
+.gallery{
+ 	width: 500px;
+ 	margin-bottom: 20px;
+}
+.gallery img{
+ 	opacity: 0.5;
+}
+.gallery img:hover{
+	opacity: 1;
+	box-shadow: 4px 6px 8px black;
+	margin: -40px;	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
